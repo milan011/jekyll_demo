@@ -10,7 +10,7 @@ http://www.yywlkj.com, 支持PC与智能机访问。
 模板可任意使用，但请保留本站友情链接。  
 
 #### 3.联系作者
-QQ交流群: 3164703114 
+QQ: 3164703114 
 Github：https://github.com/milan011 
 
 
