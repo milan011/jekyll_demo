@@ -7,9 +7,9 @@ github: milan011
 author: "wcg"
 email: milan011#sina.com
 name: "wcg个人博客"
-# baseurl: /jekyll_demo
-url: http://www.wcg.com
-domain: www.wcg.com
+baseurl: /jekyll_demo
+# url: http://www.wcg.com
+# domain: www.wcg.com
 all_categories: [
 ["android", "Android开发","/posts/android.html"], 
 ["program", "软件编程","/posts/program.html"],
